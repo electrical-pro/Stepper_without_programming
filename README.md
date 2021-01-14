@@ -26,3 +26,7 @@ Switch: https://s.click.aliexpress.com/e/_Apb1l7
 Pin Header: https://s.click.aliexpress.com/e/_AUvLzT
 
 Female PCB Header: https://s.click.aliexpress.com/e/_AClQip
+
+Electrolytic Capacitors https://s.click.aliexpress.com/e/_A2atvx
+
+Ceramic Capacitors https://s.click.aliexpress.com/e/_ABg3GZ
