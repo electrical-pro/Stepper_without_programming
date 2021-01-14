@@ -8,3 +8,5 @@ This is the curcuit:
 <img src="circuit.jpg">
 
 Motor I've used: https://s.click.aliexpress.com/e/_d84I07S
+PCB 4X6: https://s.click.aliexpress.com/e/_d65i2Sg
+PCB 6X8: https://s.click.aliexpress.com/e/_d7XpQnS
