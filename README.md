@@ -22,3 +22,7 @@ LM7805 https://s.click.aliexpress.com/e/_AVukJx
 Switch: https://s.click.aliexpress.com/e/_Apb1l7
 
 50k Potentiometer https://s.click.aliexpress.com/e/_AgNoGN
+
+Pin Header: https://s.click.aliexpress.com/e/_AUvLzT
+
+Female PCB Header: https://s.click.aliexpress.com/e/_AClQip
