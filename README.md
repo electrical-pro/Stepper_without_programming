@@ -9,11 +9,9 @@ This is the curcuit:
 # Components
 Motor I've used: [https://s.click.aliexpress.com/e/_d84I07S](https://s.click.aliexpress.com/e/_d84I07S)
 
-PCB 4X6: [https://s.click.aliexpress.com/e/_d65i2Sg](https://s.click.aliexpress.com/e/_DlxggA5)
+PCB 6X8: [https://s.click.aliexpress.com/e/_c3icY5Ar](https://s.click.aliexpress.com/e/_c3icY5Ar)
 
-PCB 6X8: [https://s.click.aliexpress.com/e/_d7XpQnS](https://s.click.aliexpress.com/e/_DlxggA5)
-
-DVR8825 stepper motor driver: [https://s.click.aliexpress.com/e/_Anmk61](https://s.click.aliexpress.com/e/_DdbsVY5)
+DVR8825 stepper motor driver: [https://s.click.aliexpress.com/e/_c3ZBrKLV](https://s.click.aliexpress.com/e/_c3ZBrKLV)
 
 SN74HC14N: [https://s.click.aliexpress.com/e/_A5CxRn](https://s.click.aliexpress.com/e/_A5CxRn)
 
@@ -21,14 +19,12 @@ LM7805: [https://s.click.aliexpress.com/e/_AVukJx](https://s.click.aliexpress.co
 
 Switch: [https://s.click.aliexpress.com/e/_Apb1l7](https://s.click.aliexpress.com/e/_Apb1l7)
 
-50k Potentiometer: [https://s.click.aliexpress.com/e/_AgNoGN](https://s.click.aliexpress.com/e/_Dl5W2UD)
+50k Potentiometer: [https://s.click.aliexpress.com/e/_Dl5W2UD](https://s.click.aliexpress.com/e/_Dl5W2UD)
 
-Pin Header: [https://s.click.aliexpress.com/e/_DdOig6l](https://s.click.aliexpress.com/e/_DdOig6l)
-
-Female PCB Header: [https://s.click.aliexpress.com/e/_DDBKykp](https://s.click.aliexpress.com/e/_DDBKykp)
+Pin Header: [https://s.click.aliexpress.com/e/_c2zNwZSn](https://s.click.aliexpress.com/e/_c2zNwZSn)
 
 Electrolytic Capacitors: [https://s.click.aliexpress.com/e/_A2atvx](https://s.click.aliexpress.com/e/_A2atvx)
 
-Ceramic Capacitors: [https://s.click.aliexpress.com/e/_ABg3GZ](https://s.click.aliexpress.com/e/_ABg3GZ)
+Ceramic Capacitors: [https://s.click.aliexpress.com/e/_c4F1Wrfh](https://s.click.aliexpress.com/e/_c4F1Wrfh)
 
 Resistors: [https://s.click.aliexpress.com/e/_9AslPB](https://s.click.aliexpress.com/e/_9AslPB)
